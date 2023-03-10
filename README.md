@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m currently working on
+- Model: Recommend
+- Data: Batch & Stream computing, OLAP
+- RecSys: Platform, Pipline, Inference
+
+
 <!--
 **dzzxjl/dzzxjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
