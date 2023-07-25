@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on
 - Model: Recommend
-- Data: Batch & Stream computing, OLAP
+- Data: Batch & Stream computing, Data lake, OLAP
 - RecSys: Platform, Pipline, Inference
 
 
