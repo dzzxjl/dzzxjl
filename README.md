@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 🔭 I’m currently working on
-- Model: Recommend
 - Data: Batch & Stream computing, Data lake, OLAP
-- RecSys: Platform, Pipline, Inference
+- RecSys: Platform, Pipline, Train, Inference
+- Model: Recommend, Ad, Search
+
+
 
 
 <!--
