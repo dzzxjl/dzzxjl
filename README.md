@@ -5,7 +5,7 @@
 - RecSys: Platform, Pipline, Train, Inference
 - Model: Recommend, Ad, Search
 
-
+distro hopping/command line and vim zealot
 
 
 <!--
