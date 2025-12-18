@@ -1,11 +1,18 @@
 ### Hi there 👋
 
 🔭 I’m currently working on
-- Data: Batch & Stream computing, Data lake, OLAP
-- RecSys: Platform, Pipline, Train, Inference
-- Model: Recommend, Ad, Search
+- Data: computation at scale (batch & streaming), data lake storage
+- Models: RecSys, Ads
 
-distro hopping/command line and vim zealot
+🌱 I’m also interested in
+- AI Infra: compilers, inference & training
+- Systems: platforms, pipelines, and workflow orchestration
+
+🧠 Outside of work
+- distro hopping
+- living in the command line (cli > gui)
+- vim zealot (vim > ide)
+- $TERMINAL $EDITOR $SHELL $BROWSER $WM
 
 
 <!--
