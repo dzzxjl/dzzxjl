@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 🔭 I’m currently working on
-- Data: computation at scale (batch & streaming), data lake storage
+- Data: computation at scale (batch & streaming), data lake storage, distributed systems
 - Models: RecSys, Ads
 
 🌱 I’m also interested in
-- AI Infra: compilers, inference & training
+- AI Infra: inference, training & compilers
 - Systems: platforms, pipelines, and workflow orchestration
 
 🧠 Outside of work
