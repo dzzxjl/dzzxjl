@@ -2,10 +2,10 @@
 
 🔭 I’m currently working on
 - Data: computation at scale (batch & streaming), data lake storage, distributed systems
-- Models: RecSys, Ads
+- MLOps: RecSys, Ads
 
 🌱 I’m also interested in
-- AI Infra: inference, training & compilers
+- MLSys & AI Infra: inference, training & compilers
 
 🧠 Outside of work
 - distro hopping
